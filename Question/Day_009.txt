@@ -1,0 +1,8 @@
+
+執行範例程式碼Day_009_correlation_example.ipynb，
+使得對相關係數有更直接的了解。
+
+
+作業：
+
+參考範例程式碼，模擬一組負相關的資料，並計算出相關係數以及畫出 scatter plot。
