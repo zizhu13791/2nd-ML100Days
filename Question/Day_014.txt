@@ -1,0 +1,4 @@
+
+作業：
+
+請使用 application_train.csv, 根據不同的 HOUSETYPE_MODE 對 AMT_CREDIT 繪製 Histogram。
