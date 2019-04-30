@@ -1,0 +1,8 @@
+
+作業：
+
+使用 application_train.csv 的資料
+1. 列出 AMT_ANNUITY 的 q0 - q100  
+2-1. 將 AMT_ANNUITY 中的 NAs 暫時以中位數填補  
+2-2. 將 AMT_ANNUITY 的數值標準化至 -1 ~ 1 間
+2-3. 將 AMT_GOOD_PRICE 的 NAs 以眾數填補
