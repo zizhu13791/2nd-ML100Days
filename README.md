@@ -2,7 +2,7 @@
   
   
 * **資料清理 - 數據預處理**  
-  [Day_001：資料介紹與評估資料](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_001.txt)  
+  [Day_001：資料介紹與評估資料](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_001.md)  
   [Day_002：EDA 讀取資料](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_002.txt)  
   [Day_003：如何建立 dataframe 與讀取其他非 csv 資料](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_003.txt)  
   [Day_004：EDA 欄位的資料類型介紹及處理](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_004.txt)  
