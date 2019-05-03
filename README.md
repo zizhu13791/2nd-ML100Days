@@ -18,8 +18,9 @@
   [Day_014：Subplots](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_014.md)  
   [Day_015：Heatmap & Grid-plot](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_015.md)  
   [Day_016：模型初體驗 Logistic Regression](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_016.md)  
-  
-  * **資料科學 - 特徵工程技術**  
+ 
+ 
+* **資料科學 - 特徵工程技術**  
   [Day_017：特徵工程簡介](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_017.md)  
   [Day_018：特徵類型](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_018.md)  
   [Day_019：數值型特徵 補缺失值與標準化](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_019.md)  
