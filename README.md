@@ -30,5 +30,15 @@
   [Day_023：類別型特徵 - 均值編碼](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_023.md)  
   [Day_024：類別型特徵 - 其他進階處理](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_024.md)  
   [Day_025：時間型特徵](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_025.md)  
+  [Day_026：特徵組合 - 數值與數值組合](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_026.md)  
+  [Day_027：特徵組合 - 類別與數值組合](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_027.md)  
+  [Day_028：特徵選擇](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_028.md)  
+  [Day_029：特徵評估](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_029.md)  
+  [Day_030：分類型特徵優化 - 葉編碼](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_030.md)  
   
   
+ * **機器學習基礎模型建立**  
+   [Day_031：機器學習概論](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_031.md)  
+   [Day_032：機器學習-流程與步驟](https://github.com/zizhu13791/2nd-ML100Days/blob/master/Question/Day_032.md)  
+  
+
